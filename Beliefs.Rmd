@@ -26,7 +26,6 @@ Review every quarter ([README](README.md)).
 - Frankly, I have no idea and no certainty what is true for sure and what is false for sure.
 - At this stage, I trust the scientists with regards to physical phenomena while not dismissing the mystics and the philosophers.
 
-
 ## On Usefulness vs Accuracy
 - Usefulness is more important than accuracy.
 - I can use the wrong working or model, but still arrive at the correct or useful answer. In my life, having the correct or useful answer is usually more important.
